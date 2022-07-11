@@ -166,3 +166,7 @@ if __name__ == '__main__':
     data = 'C:\\Users\\wb.mahuanyong\\Desktop'
     generator(data)
     FaceRec(data)
+    
+    
+    
+print("test222222")
